@@ -1,4 +1,4 @@
-// @ts-nocheck
+// @ts-nocheck ok
 
 const electron = require('electron');
 const url = require('url');
